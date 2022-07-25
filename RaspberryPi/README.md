@@ -10,6 +10,6 @@ https://github.com/Picovoice/porcupine
 Porcupine console:
 https://console.picovoice.ai/login
 
-Install the following library:
-pip install pvporcupine
+Install the following library:<br/>
+pip install pvporcupine<br/>
 pip install pvrecorder
