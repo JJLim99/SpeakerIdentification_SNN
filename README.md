@@ -13,8 +13,7 @@ Refer to RaspberryPi directory
 3. https://pypi.org/project/keras_squeezenet <br/>
 4. https://github.com/mit-han-lab/mcunet <br/>
 5. https://github.com/gmalivenko/pytorch2keras <br/>
-6. https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html <br/> <br/>
+6. https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html <br/> 
 
-Porcupine GitHub: https://github.com/Picovoice/porcupine <br/> <br/>
-
+Porcupine GitHub: https://github.com/Picovoice/porcupine <br/>
 Porcupine console: https://console.picovoice.ai/login <br/>
