@@ -8,8 +8,8 @@ Refer to RaspberryPi directory
 
 
 ## Reference
-https://github.com/VikasOjha666/Speaker-Identification-One-Shot-Learning <br/>
-https://www.tensorflow.org/api_docs/python/tf/keras/applications/mobilenet_v2/MobileNetV2 <br/>
-https://pypi.org/project/keras_squeezenet <br/>
-https://github.com/mit-han-lab/mcunet <br/>
-https://github.com/gmalivenko/pytorch2keras
+1. https://github.com/VikasOjha666/Speaker-Identification-One-Shot-Learning (Main) <br/>
+2. https://www.tensorflow.org/api_docs/python/tf/keras/applications/mobilenet_v2/MobileNetV2 <br/>
+3. https://pypi.org/project/keras_squeezenet <br/>
+4. https://github.com/mit-han-lab/mcunet <br/>
+5. https://github.com/gmalivenko/pytorch2keras
