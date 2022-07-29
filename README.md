@@ -12,6 +12,9 @@ Refer to RaspberryPi directory
 ## Pre-trained Model
 Refer to ./RaspberryPi/model/
 
+## Dataset
+https://drive.google.com/drive/folders/1JoUFILE7hEmpFyqW9i5HpPy0_s_BeXEG?usp=sharing
+
 ## Reference
 1. https://github.com/VikasOjha666/Speaker-Identification-One-Shot-Learning (Main) <br/>
 2. https://www.tensorflow.org/api_docs/python/tf/keras/applications/mobilenet_v2/MobileNetV2 <br/>
