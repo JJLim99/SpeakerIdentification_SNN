@@ -6,6 +6,8 @@ Refer to main.ipynb
 ## Model deployment on Raspberry Pi 4
 Refer to RaspberryPi directory
 
+## Pre-trained Model
+Refer to ./RaspberryPi/model/
 
 ## Reference
 1. https://github.com/VikasOjha666/Speaker-Identification-One-Shot-Learning (Main) <br/>
