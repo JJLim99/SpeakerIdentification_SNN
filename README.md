@@ -1,5 +1,8 @@
 # SpeakerIdentification_SNN
 
+## Prerequisite
+Install tensorflow-gpu==1.15 (Can refer to https://github.com/JJLim99/Implementation-of-TensorFlow-GPU-CUDA-in-Windows.git)
+
 ## Model training and inferencing stage
 Refer to main.ipynb
 
